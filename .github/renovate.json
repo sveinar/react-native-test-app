@@ -21,10 +21,6 @@
       "matchPackagePrefixes": ["com.squareup.moshi:"]
     },
     {
-      "matchPackageNames": ["org.jetbrains.intellij.deps:trove4j"],
-      "enabled": false
-    },
-    {
       "matchPackageNames": ["react"],
       "enabled": false
     },
